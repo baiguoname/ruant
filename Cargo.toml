@@ -1,0 +1,9 @@
+[package]
+name = "ruant"
+version = "0.1.2"
+edition = "2021"
+authors = ["baiguo<aruster@qq.com>"]
+description = "A crate for stock factor calculation basing on tick data"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
